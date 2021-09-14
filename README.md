@@ -3,7 +3,7 @@
 this project used to convert encoded 64 xml object to json object
 
 for Ex:
-input before encode= 
+input before encod= 
 <?xml version="1.0" encoding="UTF-8"?>
             <name>Hossam</name>
             <age>29</age>
